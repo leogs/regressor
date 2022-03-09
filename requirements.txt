@@ -6,3 +6,4 @@ numpy
 plotly==5.6.0
 scipy
 scikit-learn
+pytest
